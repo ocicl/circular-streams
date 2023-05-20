@@ -1,0 +1,9 @@
+* circular-streams
+
+Circularly readable streams for Common Lisp.
+
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/fukamachi/circular-streams.git |
+| commit  | e770bad                                               |
+| systems | circular-streams                                      |
+|---------+-------------------------------------------------------|
